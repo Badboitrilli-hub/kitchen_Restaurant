@@ -363,7 +363,7 @@ footer{
 
 .socials-container img{
     width: 2rem;
-    background-color: red;
+    /* background-color: red; */
     height: 2rem;
 }
 
@@ -569,7 +569,7 @@ footer{
 }
 
 .reservation-container{
-    padding: 3rem 1rem;
+    padding: 3rem 0.5rem;
 }
 
 .contact-container{
